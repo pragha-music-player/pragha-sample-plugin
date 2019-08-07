@@ -1,0 +1,12 @@
+What is it?
+===========
+
+This is a sample plug-in for the Pragha Music Player version 1.3.99.1, or
+higher. It demonstrates the basic usage of the plugin framework.
+
+
+It is useful for something?
+===========================
+
+Well, this plug-in adds a button on the toolbar to start a CD burning application
+with the current playlist.

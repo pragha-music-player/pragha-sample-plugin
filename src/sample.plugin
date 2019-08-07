@@ -1,0 +1,9 @@
+[Plugin]
+Module=sample
+Name=Burn Audio CD
+Description=Burn the playlist on an Audio CD
+Authors=Jane Doe <jane@doe.org>
+Copyright=Copyright © 2019 Jane Doe
+Website=https://github.com/pragha-music-player/pragha-sample-plugin
+Help=https://github.com/pragha-music-player/pragha-sample-plugin
+
